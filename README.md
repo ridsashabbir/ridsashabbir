@@ -56,8 +56,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/ridsashabbir"><img src="https://img.shields.io/badge/--0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ridsashabbir123@gmail.com"><img src="https://img.shields.io/badge/--D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/ridsashabbir"><img src="https://img.shields.io/badge/--E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/ridsashabbir"><img src="https://img.shields.io/badge/--e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+<!-- <a href="https://www.instagram.com/ridsashabbir"><img src="https://img.shields.io/badge/--E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
+<a href="[https://leetcode.com/ridsashabbir](https://leetcode.com/ridsashabbir/)"><img src="https://img.shields.io/badge/--e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
  </p>
  
 <br>
