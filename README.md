@@ -4,15 +4,6 @@
   </div>
 <p align="center">
 
-### 👩🏻‍💻 I'm a MERN Stack Web Developer!
-- 🌱 I’m currently expanding my knowledge in AWS and Rest APIs.
-- 👯 I’m looking to collaborate with other developers.
-- 📢 Love to teach and inspire students. Taught over more then 500 students.
-- 🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
-- 💎 If you are a Tech boy/girl let's get connected  
- 
-<h2>⚡Tech Stack</h2>
-
 <table width="100">
 <tr>
     <td align='center' width="200">
