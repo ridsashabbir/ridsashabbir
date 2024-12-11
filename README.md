@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Ridsa Shabbir👋<a href="#"></h1>
+    <h1> Hi there, I'm Ridsa Shabbir <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="39px"></h1> 
   </div>
 <p align="center">
 
