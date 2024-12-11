@@ -4,6 +4,8 @@
   </div>
 <p align="center">
 
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
+
 <table width="100">
 <tr>
     <td align='center' width="200">
